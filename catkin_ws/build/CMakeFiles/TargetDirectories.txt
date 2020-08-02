@@ -35,3 +35,11 @@
 /home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/gtest/googlemock/gtest/CMakeFiles/list_install_components.dir
 /home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir
 /home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/gtest/googlemock/gtest/CMakeFiles/rebuild_cache.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/install/strip.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/install/local.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/test.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/list_install_components.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/edit_cache.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/_catkin_empty_exported_target.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/rebuild_cache.dir
+/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/build/ros_robotics/CMakeFiles/install.dir
