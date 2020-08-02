@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/devel/setup.sh

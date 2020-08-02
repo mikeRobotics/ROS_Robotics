@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lazarus/Desktop/Robotics/ROS_Robotics/catkin_ws/install -G Unix Makefiles
